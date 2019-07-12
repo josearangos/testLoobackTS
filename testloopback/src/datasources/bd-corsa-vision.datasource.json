@@ -1,0 +1,11 @@
+{
+  "name": "bdCorsaVision",
+  "connector": "mongodb",
+  "url": "mongodb://testLoopBack3:1testLoopBack@ds351107.mlab.com:51107/bdcorsavision",
+  "host": "ds351107.mlab.com",
+  "port": 51107,
+  "user": "testLoopBack3",
+  "password": "1testLoopBack",
+  "database": "bdcorsavision",
+  "useNewUrlParser": true
+}
